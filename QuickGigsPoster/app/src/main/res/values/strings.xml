@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Gigs</string>
+    <string name="title_activity_open_jobs">Open Jobs</string>
+    <string name="title_activity_claimed_jobs">Claimed Jobs</string>
+</resources>
